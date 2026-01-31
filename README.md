@@ -6,4 +6,4 @@ This repository is created as part of Fullstack GitHub Lab1 exercise to learn ho
 create, manage, commit, and pull requests. 
 Remote change made by me Constance
 This shows the remotely added line by me
-
+This demonstartes confict basics - This Remote change was made by Constance
