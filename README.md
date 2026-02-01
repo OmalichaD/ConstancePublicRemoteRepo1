@@ -2,7 +2,7 @@
 
 My First Public GitHub Repository
 
-Hello! My name is Constance. (REMOTE CONFLICT VERSION)
+Remote change. (REMOTE CONFLICT VERSION)
 This repository is created as part of Fullstack GitHub Lab1 exercise to learn how to 
 create, manage, commit, and pull requests. 
 Added a file change by me Constance. (Edited remotely)
