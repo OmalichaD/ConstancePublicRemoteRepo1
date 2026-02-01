@@ -1,4 +1,4 @@
-LOCAL VERSION
+LOCAL VERSION and REMOTE VERSION
 
 My First Public GitHub Repository
 
