@@ -1,4 +1,4 @@
-# ConstancePublicRemoteRepo1
+This is my REMOTE version for the assignment.
 
 My First Public GitHub Repository
 
