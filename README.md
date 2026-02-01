@@ -1,4 +1,4 @@
-This is my REMOTE version for the assignment.
+REMOTE VERSION 
 
 My First Public GitHub Repository
 
